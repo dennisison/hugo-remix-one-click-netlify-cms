@@ -1,21 +1,48 @@
 en:
-  title: Remix, a <span>theme for Hugo</span> fully editable with <span>Netlify
-    CMS</span>
-  slogan: Nulla magna eiusmod ea eu irure exercitation non incididunt.
-  shortDescription: |
-    
-    → Get your own copy of this website in minutes.
-    → Edit everything with no single line of code.
-    → It's free and open-source!
-  image: /media/wave.jpg
-  copyright: "  © 2017-2022 - OhBonsaï &"
-  register: Roneo.org
+  title: Your Wellness In Balance
+  slogan: Bringing balance in your wellness
+  shortDescription: >-
+    TOXIN REMOVAL
+
+    Advanced TRS
+
+
+    REVEAL YOUR FULL POTENTIAL
+
+
+    Cleanse Toxins from Body & Mind
+
+
+    Your air, water and food are saturated with toxins-that means your body and mind are too. Advanced TRS uses breakthrough nanotechnology at the cellular level to remove and cleanse toxins and heavy metals from your body. All this is performed at the cellular level.
+
+
+    With its proprietary clinoptilolite zeolite formula, Advanced TRS captures toxic heavy metals like mercury, arsenic, aluminum, lead, chemical toxins, radioactive toxins, and free radicals that impair your body and weigh down
+
+    your mind. With daily use, a few sprays each morning and evening will reveal your body’s full potential.
+
+
+    Naturally Remove Toxic Heavy Metals like Mercury, Lead, Aluminum & Arsenic
+
+
+    Support Healthy Levels of Vital Nutrients like Iron & Calcium
+
+
+    Balance pH Levels
+
+
+    Boost Immune System Function
+
+
+    Advanced TRS is designed to remove more toxins than any other zeolite solution. With an average zeolite pore size of 0.7 – 0.9 nanometers as verified by ultra-high resolution microscopy, there is an estimated surface area of 4.8 million sq ft per bottle that is capable of removing toxins.
+  image: /media/blance.png
+  copyright: ©2023 yourwellnessinbalance.com
+  register: yourwellnessinbalance.com
   registerUrl: https://roneo.org/en
 fr:
-  image: /media/wave.jpg
-  title: Remix, un <span>theme pour Hugo</span> branché sur <span>Netlify CMS</span>
-  slogan: Lorem magna eiusmod ea eu irure exercitation non incididunt.
-  shortDescription: « Quis do pariatur quis nostrud elit in»
-  copyright: "  © 2017-2022 - OhBonsaï &"
-  register: Roneo.org
+  image: ""
+  title: ""
+  slogan: ""
+  shortDescription: ""
+  copyright: ""
+  register: ""
   registerUrl: https://roneo.org/en
