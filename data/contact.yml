@@ -1,17 +1,17 @@
 en:
   backgroundTitle: Contact
-  phone: +86 571 1234 5678
-  detail: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explica
-  location: Rennes, Bretagne
-  subtitle:
+  phone: ""
+  detail: Please don’t hesitate to contact us with any comments, questions, or
+    special requests
+  location: 428 East Winchester Street, Suite 300 Salt Lake City, Utah
+  subtitle: null
   title: <span>Contact</span> Us
-  languages: English, French, German
-  email: contact@example.org
-  fax: +86 571 1234 5678
+  languages: English
+  email: support1@coseva.com
+  fax: ""
 fr:
   backgroundTitle: Contact
-  phone: "+86 571 1234 5678"
+  phone: +86 571 1234 5678
   detail: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis
     asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore
